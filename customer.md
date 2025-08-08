@@ -23,3 +23,4 @@ DELETE FROM email_sent WHERE customer_id = 8;
 DELETE FROM customer WHERE id = 8;
 
 COMMIT;
+
