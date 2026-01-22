@@ -2,6 +2,10 @@
 
 This document provides step-by-step instructions to install commonly used development tools on Ubuntu.
 
+> [!TIP]
+> **Prefer automated setup?**
+> A professional, single-command installation script is available in [dev-environment-setup/](./dev-environment-setup/). This is faster, less prone to error, and supports all tools listed here.
+
 ---
 
 ## 1. Install Git
