@@ -25,16 +25,6 @@ It is designed to be:
 
 ---
 
-## What This Script Does NOT Touch
-
-- Bluetooth
-- Camera
-- GNOME / Desktop stability
-- LibreOffice
-- Core Ubuntu system packages
-
----
-
 ## Supported Systems
 
 - Ubuntu 22.04 LTS
