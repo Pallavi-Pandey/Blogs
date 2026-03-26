@@ -1,4 +1,4 @@
-# Developer Guides and Setup
+# Personal Blogs
 
 A collection of professional guides, setup scripts, and technical articles for maintaining a clean and efficient development environment on Ubuntu.
 
